@@ -1,0 +1,400 @@
+(ROOT
+  (S
+    (NP
+      (QP (IN At) (JJS least) (CD two))
+      (NNS men))
+    (VP
+      (VP (VBD broke)
+        (PRT (RP in)))
+      (CC and)
+      (VP (VBD stole)
+        (NP (PRP$ my) (NN TV))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP
+        (NP (PRP$ my) (NN aunt) (POS 's))
+        (NN car)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (PRP we))
+            (VP (VBD sold)
+              (PP (IN at)
+                (NP (NN auction)))
+              (NP (JJ last) (NN year))
+              (PP (IN in)
+                (NP (NNP February))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS veterans))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (NP (PRP I))
+          (VP (VBD thought)
+            (SBAR (IN that)
+              (S
+                (NP (PRP we))
+                (VP (MD would)
+                  (VP (VB meet)
+                    (PP (IN at)
+                      (NP (DT the) (NN reunion)))))))))))
+    (VP (VBD were)
+      (ADJP (JJ dead)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN wildest) (NN dream))
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB build)
+              (NP
+                (NP (DT a) (NNP POS) (NN tagger))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP
+                      (VP (VBZ processes)
+                        (NP
+                          (NP (CD 10K) (NNS words))
+                          (PP (IN per)
+                            (NP (NN second)))))
+                      (CC and)
+                      (VP (VBZ uses)
+                        (NP
+                          (NP
+                            (QP (RB only) (CD 1))
+                            (NN MB))
+                          (PP (IN of)
+                            (NP (NNP RAM))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (MD may)
+        (VP (VB prove)
+          (ADJP (RB too) (JJ hard)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VBG Making)
+          (NP (DT these) (NNS decisions))))
+      (VP (VBZ requires)
+        (NP
+          (NP (JJ sophisticated) (NN knowledge))
+          (PP (IN of)
+            (NP (NN syntax))))))
+    (: ;)
+    (S
+      (NP
+        (NP (JJ tagging) (NNS manuals))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP Santorini))
+          (, ,)
+          (NP (CD 1990))
+          (-RRB- -RRB-)))
+      (VP (VBP give)
+        (NP (JJ various) (NNS heuristics))
+        (NP
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD can)
+                (VP (VB help)
+                  (S
+                    (NP (JJ human) (NNS coders))
+                    (VP (VB make)
+                      (NP (DT these) (NNS decisions))))))))
+          (CC and)
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD can)
+                (ADVP (RB also))
+                (VP (VB provide)
+                  (NP (JJ useful) (NNS features))
+                  (PP (IN for)
+                    (NP (JJ automatic) (NNS taggers))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (RB slightly) (VBN simplified) (NN version))
+      (PP (IN of)
+        (NP (DT the) (NNP Viterbi))))
+    (VP (VBP algorithm)
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (ADVP (RB present))
+          (VP
+            (VP (VBZ takes)
+              (PP (IN as)
+                (NP
+                  (NP
+                    (NP (NN input))
+                    (NP (DT a) (JJ single) (NN HMM)))
+                  (CC and)
+                  (NP
+                    (NP (DT a) (NN sequence))
+                    (PP (IN of)
+                      (NP (JJ observed) (NNS words))))))
+              (NP
+                (NP (NNP O) (NNP =))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (NP (NNS o1) (, ,) (NN o2) (, ,))
+                    (: ...)
+                    (NP (NN oT)))
+                  (-RRB- -RRB-))))
+            (CC and)
+            (VP (VBZ returns)
+              (NP
+                (NP
+                  (NP (DT the)
+                    (ADJP (RBS most) (JJ probable))
+                    (NN state/tag))
+                  (NN sequence) (NNP Q) (NNP =))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN q1) (, ,) (NN q2) (, ,) (NN qT))
+                  (-RRB- -RRB-)))
+              (PP
+                (ADVP (RB together))
+                (IN with)
+                (NP (PRP$ its) (NN probability))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Coming)
+        (NP (NN home))
+        (PP (IN from)
+          (NP
+            (ADJP (RB very) (JJ lonely))
+            (NNS places)))))
+    (, ,)
+    (NP
+      (NP (DT all))
+      (PP (IN of)
+        (NP (PRP us))))
+    (VP (VBP go)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ mad))
+      (: :)
+      (SBAR (IN whether)
+        (S
+          (PP (IN from)
+            (NP
+              (NP (JJ great) (JJ personal) (NN success))
+              (, ,)
+              (CC or)
+              (RB just)
+              (NP (DT an) (JJ all-night) (NN drive))))
+          (, ,)
+          (NP (PRP we))
+          (VP (VBP are)
+            (NP
+              (NP (DT the) (JJ sole) (NNS survivors))
+              (PP (IN of)
+                (NP
+                  (NP (DT a) (NN world))
+                  (SBAR
+                    (S
+                      (NP (DT no) (NN one) (RB else))
+                      (VP (VBZ has)
+                        (ADVP (RB ever))
+                        (VP (VBN seen))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Skill))
+      (PP (IN without)
+        (NP (NN imagination))))
+    (VP
+      (VP (VBZ is)
+        (NP (NN craftsmanship)))
+      (CC and)
+      (VP (VBZ gives)
+        (NP (PRP us))
+        (NP
+          (NP (JJ many) (JJ useful) (NNS objects))
+          (PP (JJ such) (IN as)
+            (NP (NN wickerwork) (NN picnic) (NNS baskets))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Imagination))
+      (PP (IN without)
+        (NP (NN skill))))
+    (VP (VBZ gives)
+      (NP (PRP us))
+      (NP (JJ modern) (NN art)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (ADJP (RB far) (JJR fewer))
+      (NNS people))
+    (ADVP (RB fully))
+    (VP (VBP understand)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (DT the) (NNP Media) (NNP Lab))
+          (VP
+            (VP (VBZ operates))
+            (, ,)
+            (VP (VBZ fits)
+              (PP (IN into)
+                (NP (NNP MIT))))
+            (, ,)
+            (CC and)
+            (VP (VBZ encourages)
+              (NP
+                (NP (PDT such) (DT a) (JJ creative) (NN environment))
+                (: ;)
+                (NP
+                  (NP
+                    (QP (RB about) (PDT half)))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN anniversary) (NN celebration) (POS 's))
+                      (NN program)))
+                  (VP (VBN focused)
+                    (PP (IN on)
+                      (S
+                        (ADVP (RB simply))
+                        (VP (VBG defining)
+                          (SBAR
+                            (WHNP (WP what))
+                            (S
+                              (NP (DT the) (NNP Media) (NNP Lab))
+                              (VP (VBZ is)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Instead) (IN of)
+      (S
+        (VP
+          (ADVP (RB constantly))
+          (VBG worrying)
+          (PP (IN about)
+            (NP (NN funding))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN faculty))
+      (CC and)
+      (NP (NNS students)))
+    (VP (MD can)
+      (VP (VB focus)
+        (PP (IN on)
+          (NP (PRP$ their) (NN project)))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN exception))
+            (PP (IN of)
+              (NP
+                (NP (NNS sponsors) (POS '))
+                (NNS weeks)))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP they))
+                (VP (VBP have)
+                  (S
+                    (VP (TO to)
+                      (VP (VB convince)
+                        (S
+                          (NP (NNS companies))
+                          (VP (TO to)
+                            (VP (VB start)
+                              (CC or)
+                              (VB continue)
+                              (NP (PRP$ their) (NN support)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS doctors))
+    (VP (VBP are)
+      (VP (VBG warning)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNP NHS))
+            (VP (MD can) (RB not)
+              (VP (VB make)
+                (NP
+                  (NP (DT the) (JJ £) (NN 20bn))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS savings))
+                      (PP (IN by)
+                        (NP (CD 2014))))))
+                (SBAR (IN that)
+                  (S
+                    (NP (NNS ministers))
+                    (VP (VBP expect))))
+                (, ,)
+                (SBAR (IN while)
+                  (S
+                    (S
+                      (ADVP (RB simultaneously))
+                      (S
+                        (VP (VBG undertaking)
+                          (NP
+                            (NP (DT a) (JJ huge) (NN reorganisation))
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP (MD will)
+                                  (VP (VB see)
+                                    (NP
+                                      (NP
+                                        (NP (NNP England) (POS 's))
+                                        (CD 152) (JJ primary) (NN care) (NNS trusts))
+                                      (PRN (-LRB- -LRB-)
+                                        (NP (NNP PCTs))
+                                        (-RRB- -RRB-))))))))))
+                      (VP (VBD abolished)))
+                    (CC and)
+                    (S
+                      (NP
+                        (NP (NNS consortiums))
+                        (PP (IN of)
+                          (NP (NNP GPs))))
+                      (VP (VBP assume)
+                        (NP
+                          (NP (NN responsibility))
+                          (PP (IN for)
+                            (NP
+                              (NP (DT the) (VBG commissioning))
+                              (PP (IN of)
+                                (NP
+                                  (NP (NNS services))
+                                  (PP (IN for)
+                                    (NP (NNS patients))))))))))))))))))
+    (. .)))
